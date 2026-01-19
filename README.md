@@ -17,9 +17,11 @@ The rs3code_r1.zip file contains the R code needed to reproduce all results in t
 - GSE217352.R: Running this file will reproduce the analysis conducted in Section 4.2, as well as printing out Table 7.
 
 *** Folder: SimResults ***
-The csv files in this folder store the simulation results from Section 3. These files are read from other R files in the Section 3 and Supplementary folders to produce Table 1, Table 2, and Tables A1 to A4.
+The csv files in this folder store the simulation results from Section 3. These files are read from other R files in the Section 3 and Supplementary folders to produce Table 1, Table 2, and Tables A1 to A13.
 
 *** Folder: Supplementary ***
 - TablesA1toA4.R: This R file reproduces Tables A1, A2, A3, and A4 as they appear in the supplementary materials.
 - TablesA5toA8.R: This R file reproduces Tables A5, A6, A7, and A8 as they appear in the supplementary materials.
 - TablesA9toA10.R: This R file reproduces Tables A9 and A10 as they appear in the supplementary materials.
+- TablesA11toA12.R: This R file reproduces Tables A11 and A12 as they appear in the supplementary materials.
+- TableA13.R: This R file reproduces Table A13 as it appears in the supplementary materials.
