@@ -7,6 +7,8 @@ The rs3code_r1.zip file contains the R code needed to reproduce all results in t
 - Tables3and4.R: This R file reproduces Table 3 and Table 4 in the paper.
 
 *** Folder: Section 4.1 ***
+- Table5.R: This code reproduces Table 5 as it appears in the main paper.
+- Table6.R: This code reproduces Table 6 as it appears in hte main paper.
 - Trim32Analysis.R: This R file was used to analyze the Trim32 dataset. It reproduces Table 5 and the values used to construct Table 6.
 - trim32meanresults_v3.csv: This csv file contains the average metrics obtained from running Trim32Analysis.R.
 - trim32seresutls_v3.csv: This csv file contains the standard error of the average metrics obtained from running Trim32Analysis.R.
@@ -19,3 +21,5 @@ The csv files in this folder store the simulation results from Section 3. These 
 
 *** Folder: Supplementary ***
 - TablesA1toA4.R: This R file reproduces Tables A1, A2, A3, and A4 as they appear in the supplementary materials.
+- TablesA5toA8.R: This R file reproduces Tables A5, A6, A7, and A8 as they appear in the supplementary materials.
+- TablesA9toA10.R: This R file reproduces Tables A9 and A10 as they appear in the supplementary materials.
