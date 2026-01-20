@@ -14,7 +14,8 @@ The rs3code_r1.zip file contains the R code needed to reproduce all results in t
 - trim32seresutls_v3.csv: This csv file contains the standard error of the average metrics obtained from running Trim32Analysis.R.
 
 *** Folder: Section 4.2 ***
-- GSE217352-pairCV.R: Running this file will reproduce the analysis conducted in Section 4.2, as well as printing out Table 7.
+- GSE217352-pairCV.R: Running this file will reproduce the analysis conducted in Section 4.2, as well as printing out Table 7. To run this file, you will need a data (txt file) that can be obtained using the following link:
+https://www.ncbi.nlm.nih.gov/geo/download/?acc=GSE217352&format=file&file=GSE217352%5FRNASEQ%2DFPKM%2Etxt%2Egz
 
 *** Folder: SimResults ***
 The csv files in this folder store the simulation results from Section 3. These files are read from other R files in the Section 3 and Supplementary folders to produce Tables 1 to 4, and Tables A1 to A13.
